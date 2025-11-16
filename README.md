@@ -1,7 +1,7 @@
 # 👋 Hello world, I’m John Peter Halog (@JP-Halog)
 
-💻 **Web Developer & IT Support Specialist**  
-Focused on building secure, scalable, and efficient web/database systems. Experienced in troubleshooting complex server issues, optimizing SQL queries, and automating workflows.
+💻 **Web Developer & IT Support Specialist**
+- Focused on building secure, scalable, and efficient web/database systems. Experienced in troubleshooting complex server issues, optimizing SQL queries, and automating workflows.
 ---
 ### 🏆 Highlights
 - Boosted ecommerce site sales by **49%** through UX improvements and optimization (BIITS, 2024–2025)  
